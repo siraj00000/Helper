@@ -1,9 +1,3 @@
-Got it — you want the `README.md` to walk through the **entire AWS S3 setup flow**: from creating the bucket to setting up permissions and integrating with your Node.js app.
-
-Here’s a complete and clear **"S3 Integration Guide"** section to include in your existing README:
-
----
-
 ## ☁️ AWS S3 Integration Guide
 
 This section describes how to **set up S3** on AWS and integrate it with your Node.js backend for uploading and accessing images or files.
