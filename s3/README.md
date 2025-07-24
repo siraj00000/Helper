@@ -134,13 +134,3 @@ await uploadManager.uploadMultipleImages(files, "chat-uploads");
 ```
 https://<bucket-name>.s3.us-east-2.amazonaws.com/profile-pictures/<unique-file-name>.jpg
 ```
-
----
-
-Let me know if you'd like to include:
-
-* ✅ Presigned URL instructions (for private access)
-* ✅ Automatic bucket policy application script (via AWS CLI or Terraform)
-* ✅ Multer setup for handling form-data uploads
-
-Would you like me to now insert this directly into your existing README.md content?
